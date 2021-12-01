@@ -45,6 +45,6 @@ Teaching Assistant
 
 Work Experience
 ------
--Intern [Sept 2020 - Feb 2021], EdgeCortix
+-[Intern] Sept 2020 - Feb 2021, EdgeCortix
 
 
