@@ -83,11 +83,11 @@ author:
   name             : "Zhaoying LI (李兆颖)"
   avatar           : "profile.png"
   # bio              : "Your biography for the left-hand sidebar"
-  # location         : "Location"
+  location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  # email            : "zhaoying@comp.nus.edu.sg"
+  googlescholar    : "https://scholar.google.com/citations?user=Nb_Ve0kAAAAJ&hl=en"
+  email            : "zhaoying@comp.nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   # bitbucket        :
