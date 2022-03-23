@@ -12,7 +12,7 @@ Hi, I am Zhaoying Li, a fourth year Ph.D. student in Computer Science at the Nat
 
 My research interests include spatial accelerator and compiler optimization.
 
-Email: zhaoying@comp.nus.edu.sg
+Email: zhaoying AT comp.nus.edu.sg
 
 
 
