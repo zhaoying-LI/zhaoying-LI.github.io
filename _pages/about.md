@@ -18,7 +18,7 @@ Email: zhaoying@comp.nus.edu.sg
 
 Publications 
 ======
-1. **[HPCA 2022] LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators** [ [paper](https://www.comp.nus.edu.sg/~tulika/HPCA_LISA_2022.pdf) | [code](https://github.com/ecolab-nus/LISA) ]\
+1. **[HPCA 2022] LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators** [ [paper](https://www.comp.nus.edu.sg/~tulika/HPCA_LISA_2022.pdf) | [code](https://github.com/ecolab-nus/LISA) | [slides](https://github.com/zhaoying-LI/zhaoying-LI.github.io/blob/master/files/HPCA2022_LISA_slides.pdf) ]\
 <u>Zhaoying Li</u>, Dan Wu, Dhananjaya Wijerathne, Tulika Mitra\
 28th IEEE International Symposium on High-Performance Computer Architecture 
 1. **[DAC 2022] PANORAMA: Divide-and-Conquer Approach for Mapping Complex Loop Kernels on CGRA**\
