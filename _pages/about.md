@@ -14,7 +14,7 @@ My research interests include spatial accelerator and compiler optimization.
 
 Email: zhaoying AT comp.nus.edu.sg
 
-
+[CV](https://zhaoying-li.github.io/files/CV.pdf)
 
 Publications 
 ======
