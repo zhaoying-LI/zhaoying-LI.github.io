@@ -21,8 +21,8 @@ Publications
 1. **[HPCA 2022] LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators** \
 <u>Zhaoying Li</u>, Dan Wu, Dhananjaya Wijerathne, Tulika Mitra\
 28th IEEE International Symposium on High-Performance Computer Architecture \
-[ [paper](https://www.comp.nus.edu.sg/~tulika/HPCA_LISA_2022.pdf) | [code](https://github.com/ecolab-nus/LISA) | [slides](https://zhaoying-li.github.io/files/HPCA2022_LISA_slides.pdf) ]
-<span style="color:red"> *Distinguished Artifact Award*</span>.
+[ [paper](https://www.comp.nus.edu.sg/~tulika/HPCA_LISA_2022.pdf) | [code](https://github.com/ecolab-nus/LISA) | [slides](https://zhaoying-li.github.io/files/HPCA2022_LISA_slides.pdf) ] \
+<span style="color:red"> *Distinguished Artifact Award*</span>
 1. **[DAC 2022] PANORAMA: Divide-and-Conquer Approach for Mapping Complex Loop Kernels on CGRA**\
 Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Thilini Kaushalya Bandara, Tulika Mitra\
 59th ACM/IEEE Design Automation Conference, 2022
