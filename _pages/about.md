@@ -23,7 +23,7 @@ Architectural Support for Programming Languages and Operating Systems, 2025
 1. **[HPCA 2024] ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing**\
 Huize Li, Zhaoying Li, Zhenyu Bai, Tulika Mitra\
 30th IEEE International Symposium on High-Performance Computer Architecture, 2024
-1. **[MICRO 2022] ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration**\
+1. **[MICRO 2024] ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration**\
 Cheng Tan, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff Zhang\
 57th IEEE/ACM International Symposium on Microarchitecture, 2024
 1. **[HotChips 2024]  PACE: A Scalable and Energy Efficient CGRA in a RISC-V SoC for Edge Computing Applications**\
