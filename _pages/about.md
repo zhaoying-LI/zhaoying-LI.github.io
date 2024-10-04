@@ -21,16 +21,16 @@ Publications
 1. **[ASPLOS 2025]  Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning**\
 Architectural Support for Programming Languages and Operating Systems, 2025
 1. **[HPCA 2024] ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing**\
-Huize Li, Zhaoying Li, Zhenyu Bai, Tulika Mitra\
+Huize Li, <u>Zhaoying Li</u>, Zhenyu Bai, Tulika Mitra\
 30th IEEE International Symposium on High-Performance Computer Architecture, 2024
 1. **[MICRO 2024] ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration**\
-Cheng Tan, Miaomiao Jiang, Deepak Patil, Yanghui Ou, Zhaoying Li, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff Zhang\
+Cheng Tan, Miaomiao Jiang, Deepak Patil, Yanghui Ou, <u>Zhaoying Li</u>, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff Zhang\
 57th IEEE/ACM International Symposium on Microarchitecture, 2024
 1. **[HotChips 2024]  PACE: A Scalable and Energy Efficient CGRA in a RISC-V SoC for Edge Computing Applications**\
-Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, Zhaoying Li, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do\
+Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do\
 HotChips, 2024
 1. **[TODAES 2024]  Flip: Data-Centric Edge CGRA Accelerator**\
-Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, Zhaoying Li, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do\
+Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do\
 ACM Transactions on Design Automation of Electronic Systems, 29(1), 2024
 1. **[HPCA 2022] LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators** \
 <u>Zhaoying Li</u>, Dan Wu, Dhananjaya Wijerathne, Tulika Mitra\
