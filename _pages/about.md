@@ -47,7 +47,7 @@ Dan Wu, Peng Chen, Thilini K. Bandara, <u>Zhaoying Li</u>, Tulika Mitra
 ACM Transactions on Design Automation of Electronic Systems, 29(1), 2024
 
 1. **[DAC 2024] FHE-CGRA: Enable Efficient Acceleration of Fully Homomorphic Encryption on CGRAs**  
-Miaomiao Jiang, Yile Zhu, Hao You, Cheng Tan, <u>Zhaoying Li</u>, Jianxin Xu, Lei Ju  
+Miaomiao Jiang, Yilan Zhu, Honghui You, Cheng Tan, <u>Zhaoying Li</u>, Jiming Xu, Lei Ju  
 61st ACM/IEEE Design Automation Conference, 2024
 
 
