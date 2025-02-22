@@ -23,7 +23,7 @@ Publications
 62nd ACM/IEEE Design Automation Conference, 2025
 
 1. **[ASPLOS 2025] Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning**  
-<u>Zhaoying Li <sup># </u>, Pranav Dangi <sup>#, Chengen Yin, Thilini K. Bandara, Rohan Juneja, Cheng Tan, Zhenyu Bai, Tulika Mitra  
+<u>Zhaoying Li  </u> <sup>*</sup>, Pranav Dangi <sup>*</sup>, Chengen Yin, Thilini K. Bandara, Rohan Juneja, Cheng Tan, Zhenyu Bai, Tulika Mitra  
 Architectural Support for Programming Languages and Operating Systems, 2025
 
 1. **[IPDPS 2025] InkStream: Real-time GNN Inference on Streaming Graphs via Incremental Update**  
