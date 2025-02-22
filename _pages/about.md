@@ -83,7 +83,7 @@ Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Manupa Karunaratne, Anuj Pathania, Tu
 ACM Transactions on Embedded Computing Systems, 18(5s), 2019
 
 1. **[DATE 2018] Set Variation-aware Shared LLC Management for CPU-GPU Heterogeneous Architecture**  
-<u>Zhaoying Li</u>, Lei Ju, Hailong Dai, Xiaofei Li, Mi Zhao, Zhiping Jia  
+<u>Zhaoying Li</u>,  Lei Ju, Hongjun Dai, Xin Li, Mengying Zhao, Zhiping Jia  
 Design, Automation & Test in Europe Conference & Exhibition, 2018
 
 
