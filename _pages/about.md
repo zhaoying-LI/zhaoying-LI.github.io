@@ -18,43 +18,73 @@ Email: zhaoying AT comp.nus.edu.sg
 
 Publications 
 ======
-1. **[ASPLOS 2025]  Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning**\
+1. **[DAC 2025] Rewire: Advancing CGRA Mapping Through a Consolidated Routing Paradigm**  
+<u>Zhaoying Li</u>, Dan Wu, Dhananjaya Wijerathne, Dan Chen, Huize Li, Cheng Tan, Tulika Mitra  
+62nd ACM/IEEE Design Automation Conference, 2025
+
+1. **[ASPLOS 2025] Enhancing CGRA Efficiency through Aligned Compute and Communication Provisioning**  
+<u>Zhaoying Li</u>, Chengen Yin, Thilini K. Bandara, Rohan Juneja, Cheng Tan, Zhenyu Bai, Tulika Mitra  
 Architectural Support for Programming Languages and Operating Systems, 2025
-1. **[HPCA 2024] ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing**\
-Huize Li, <u>Zhaoying Li</u>, Zhenyu Bai, Tulika Mitra\
+
+1. **[IPDPS 2025] InkStream: Real-time GNN Inference on Streaming Graphs via Incremental Update**  
+Dan Wu, <u>Zhaoying Li</u>, Tulika Mitra  
+arXiv preprint arXiv:2309.11071, 2023
+
+1. **[HPCA 2024] ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing**  
+Huize Li, <u>Zhaoying Li</u>, Zhenyu Bai, Tulika Mitra  
 30th IEEE International Symposium on High-Performance Computer Architecture, 2024
-1. **[MICRO 2024] ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration**\
-Cheng Tan, Miaomiao Jiang, Deepak Patil, Yanghui Ou, <u>Zhaoying Li</u>, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff Zhang\
+
+1. **[MICRO 2024] ICED: An Integrated CGRA Framework Enabling DVFS-Aware Acceleration**  
+Cheng Tan, Miaomiao Jiang, Deepak Patil, Yanghui Ou, <u>Zhaoying Li</u>, Lei Ju, Tulika Mitra, Hyunchul Park, Antonino Tumeo, Jeff Zhang  
 57th IEEE/ACM International Symposium on Microarchitecture, 2024
-1. **[HotChips 2024]  PACE: A Scalable and Energy Efficient CGRA in a RISC-V SoC for Edge Computing Applications**\
-Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do\
+
+1. **[HotChips 2024] PACE: A Scalable and Energy Efficient CGRA in a RISC-V SoC for Edge Computing Applications**  
+Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do  
 HotChips, 2024
-1. **[TODAES 2024]  Flip: Data-Centric Edge CGRA Accelerator**\
-Vishnu Nambiar, Yi Sheng Chong, Thilini Bandara, Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Rohan Juneja, Li-Shiuan Peh, Tulika Mitra, Anh Tuan Do\
+
+1. **[TODAES 2024] Flip: Data-Centric Edge CGRA Accelerator**  
+Dan Wu, Peng Chen, Thilini K. Bandara, <u>Zhaoying Li</u>, Tulika Mitra  
 ACM Transactions on Design Automation of Electronic Systems, 29(1), 2024
-1. **[HPCA 2022] LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators** \
-<u>Zhaoying Li</u>, Dan Wu, Dhananjaya Wijerathne, Tulika Mitra\
-28th IEEE International Symposium on High-Performance Computer Architecture \
-[ [paper](https://www.comp.nus.edu.sg/~tulika/HPCA_LISA_2022.pdf) | [code](https://github.com/ecolab-nus/LISA) | [slides](https://zhaoying-li.github.io/files/HPCA2022_LISA_slides.pdf) ] \
+
+1. **[DAC 2024] FHE-CGRA: Enable Efficient Acceleration of Fully Homomorphic Encryption on CGRAs**  
+Miaomiao Jiang, Yile Zhu, Hao You, Cheng Tan, <u>Zhaoying Li</u>, Jianxin Xu, Lei Ju  
+61st ACM/IEEE Design Automation Conference, 2024
+
+
+
+1. **[HPCA 2022] LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators**  
+<u>Zhaoying Li</u>, Dan Wu, Dhananjaya Wijerathne, Tulika Mitra  
+28th IEEE International Symposium on High-Performance Computer Architecture  
+[ [paper](https://www.comp.nus.edu.sg/~tulika/HPCA_LISA_2022.pdf) | [code](https://github.com/ecolab-nus/LISA) | [slides](https://zhaoying-li.github.io/files/HPCA2022_LISA_slides.pdf) ]  
 <span style="color:red"> *Distinguished Artifact Award*</span>
-1. **[DAC 2022] PANORAMA: Divide-and-Conquer Approach for Mapping Complex Loop Kernels on CGRA**\
-Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Thilini Kaushalya Bandara, Tulika Mitra\
+
+1. **[DAC 2022] PANORAMA: Divide-and-Conquer Approach for Mapping Complex Loop Kernels on CGRA**  
+Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Thilini Kaushalya Bandara, Tulika Mitra  
 59th ACM/IEEE Design Automation Conference, 2022
-1. **[ICCD 2022] Power-Performance Characterization of TinyML Systems**\
-Yujie Zhang, Dhananjaya Wijerathne, Zhaoying Li, Tulika Mitra\
+
+1. **[ICCD 2022] Power-Performance Characterization of TinyML Systems**  
+Yujie Zhang, Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Tulika Mitra  
 40th IEEE International Conference on Computer Design, 2022
-1. **[TCAD 2022] HiMap: Fast and Scalable High-Quality Mapping on CGRA via Hierarchical Abstraction**\
-Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Anuj Pathania, Tulika Mitra, Lothar Thiele\
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
-1. **[TCAD 2021] ChordMap: Automated Mapping of Streaming Applications onto CGRA**\
-<u>Zhaoying Li</u>, Dhananjaya Wijerathne, Xianzhang Chen, Anuj Pathania, Tulika Mitra\
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-1. **[DATE 2021] HiMap: Fast and Scalable High-Quality Mapping on CGRA via Hierarchical Abstraction**\
-Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Anuj Pathania, Tulika Mitra, Lothar Thiele\
-Design Automation and Test in Europe 2021
-1. **[TECS 2019] CASCADE: High Throughput Data Streaming via Decoupled Access/Execute CGRA**\
-Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Manupa Karunaratne, Anuj Pathania, Tulika Mitra\
-ACM Transactions on Embedded Computing Systems
+
+1. **[TCAD 2022] HiMap: Fast and Scalable High-Quality Mapping on CGRA via Hierarchical Abstraction**  
+Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Anuj Pathania, Tulika Mitra, Lothar Thiele  
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022
+
+1. **[TCAD 2021] ChordMap: Automated Mapping of Streaming Applications onto CGRA**  
+<u>Zhaoying Li</u>, Dhananjaya Wijerathne, Xianzhang Chen, Anuj Pathania, Tulika Mitra  
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021
+
+1. **[DATE 2021] HiMap: Fast and Scalable High-Quality Mapping on CGRA via Hierarchical Abstraction**  
+Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Anuj Pathania, Tulika Mitra, Lothar Thiele  
+Design Automation and Test in Europe, 2021
+
+1. **[TECS 2019] CASCADE: High Throughput Data Streaming via Decoupled Access/Execute CGRA**  
+Dhananjaya Wijerathne, <u>Zhaoying Li</u>, Manupa Karunaratne, Anuj Pathania, Tulika Mitra  
+ACM Transactions on Embedded Computing Systems, 18(5s), 2019
+
+1. **[DATE 2018] Set Variation-aware Shared LLC Management for CPU-GPU Heterogeneous Architecture**  
+<u>Zhaoying Li</u>, Lei Ju, Hailong Dai, Xiaofei Li, Mi Zhao, Zhiping Jia  
+Design, Automation & Test in Europe Conference & Exhibition, 2018
 
 
 
