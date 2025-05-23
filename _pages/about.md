@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhaoying Li, a Postdoc Research Fellow in Computer Science at the National University of Singapore, working with [Prof Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/). I did my Ph.D. at the same group. I received my B.E. degree in Software Engineering at the Shandong University in 2018.
+Hi, I'm Zhaoying Li, founder of a dataflow computing chip startup. I was a Postdoc Research Fellow in Computer Science at the National University of Singapore, working with [Prof Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) from 2023 to 2025. I also completed my Ph.D. in the same research group. Prior to that, I earned my B.E. in Software Engineering from Shandong University in 2018.
 
 My research interests include spatial accelerator and compiler optimization.
 
-Email: zhaoying AT comp.nus.edu.sg
+Email: lizhaoyinglzy AT gmail.com
 
 [CV](https://zhaoying-li.github.io/files/CV.pdf)
 
